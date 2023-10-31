@@ -1,4 +1,5 @@
+
 Query Heavy Routing for React Front-End
-Registration/Login interfacting
+Registration/Login interfacing
 Toast messaging
 Redux state management and dispatching actions
