@@ -1,2 +1,4 @@
-# job-tracker
-A React Router based front-end interface, THUNK-ified backend server queries
+Query Heavy Routing for React Front-End
+Registration/Login interfacting
+Toast messaging
+Redux state management and dispatching actions
