@@ -18,7 +18,7 @@ const SearchContainer = () => {
     };
   };
 
-  const { search, searchStatus, searchType, sort, sortOptions } = useSelector(
+  const { searchStatus, searchType, sort, sortOptions } = useSelector(
     (store) => store.allJobs
   );
 
